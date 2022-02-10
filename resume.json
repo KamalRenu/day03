@@ -1,0 +1,107 @@
+{
+    "basics": {
+      "name": "Kamal",
+      "label": "Software Developer",
+      "image": "",
+      "email": "kamalrenu97@gmail.com",
+      "phone": "(+91) 9597063816",
+      "url": "https://kamalrenu.com",
+      "summary": "A summary of kamal…",
+      "location": {
+        "address": "55/25A Bavaji Nagar 2nd st",
+        "postalCode": "606601",
+        "city": "Tiruvannamalai",
+        "countryCode": "IND",
+        "region": "Tamilnadu"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "kamal",
+        "url": "https://twitter.com/kamal"
+      }]
+    },
+    "work": [{
+      "name": "Company",
+      "position": "Developer",
+      "url": "https://company.com",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "Anna University",
+      "url": "https://Annauniversity.com/",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2019-01-01",
+      "score": "4.0",
+      "courses": [
+        "Bachelor of Electrical and Electronics Engineering"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2020-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "kamal ",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "H.Bridge based series connected converter for ESP application",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "Electro Static Precipitator"
+      ],
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "url": "https://project.com/",
+      "roles": [
+        "Team Lead"
+      ],
+      "entity": "Entity",
+      "type": "application"
+    }]
+  }
